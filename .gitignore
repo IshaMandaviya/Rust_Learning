@@ -3,3 +3,6 @@ variable_mutability/target/
 control_flow/target/
 datatype/target/
 structure/target/
+hashmap/target/
+generic_datatype/target/
+traits/target/
